@@ -1,1 +1,12 @@
 # CS-305
+Artemis Financial, a company that deals with finances, approached us with a problem of application loopholes within the application of theirs. They had a need that they need to secure the application and be shielded against any future threat with the confidentiality of the finances in mind.
+
+When addressing the software security issues, I performed well by systematically analyzing and prioritizing the risks and subsequently making the relevant mitigation efforts. Secure coding plays a vital role because it reduces the likelihood of an attack, safeguarding the users' data and the company’s image. The customer’s trust increases with a secure application that reduces the monetary loss that comes with breaches and maintains regulatory adherence, making the company’s overall state of health good.
+
+The vulnerability scan had been an issue because the application contained intricate layers of factors that compounded and had the power of introducing fine-grained issues of security. The scan also had the effect of sharpening my critical skills of detection of the issues of the security dangers.
+
+To increase the layers of defense, several techniques such as sanitization of the inputs, encryption, and strengthening of the field of the field of authentication were used. Future will incorporate automatic system scan tools and static analysis tools with higher efficiency and the highest techniques of the mitigation will be applied based on the threat of each problem.
+
+After refactoring the code, it also underwent thorough testing with hands-on and automatic testing methods. Regret testing was also done with the intention of not introducing any further vulnerabilities. Secure development techniques of not hard-coding the credential and the usage of the parameterized query paid effectively in making the application functional and secure.
+
+I used tools including OWASP ZAP, code analysis tools and security libraries including bcrypt to hash the passwords. The tools and techniques will be applied in future projects to maintain the standard of the security at the highest level. For future employees, I will be able to demonstrate my skills in finding and patching security loopholes and my proficiency in secure code development methods. I will also be able to demonstrate my experience with the methods of assessing and avoiding loopholes and how it will be useful in making the software safe and stable.
